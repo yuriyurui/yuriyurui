@@ -1,36 +1,50 @@
-<h2 align="center"> Olá! Me chamo Yuri, sou um programador de jogos digitais. </h1>
+<h1 align="center"> Olá! Me chamo Yuri, sou um programador de jogos digitais. </h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/02c142e7-b76f-44d4-8875-efedcd8590c7" alt="Pixel Art" align="center" width="600"> <br>
 </div> <br>
 
-<div align="center"> 
-  <a href="https://www.instagram.com/notmetelis/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="yuritelisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-  <a href="https://www.linkedin.com/in/mariana-telis-garcia-115668261/" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+## Sobre Mim
+### Formações
+- Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy, formado em 2024
+- Estou no processo de me formar como bacharel em Jogos Digitais pela Pontifícia Universidade Católica de São Paulo (PUC-SP), atualmente cursando o 3° semestre com previsão de conclusão no final de 2028
+
+### Experiências 
+- Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games </a>
+
+### Habilidades
+- Idiomas:
+  - Inglês ★★★★☆
+  - Espanhol ★★☆☆☆
+- Eu gosto de programação, especialmente de sistemas, minhas especialidades são
+  - C# ★★★☆☆
+  - C++ ★☆☆☆☆
+  - Dart/Flutter ★★★☆☆
+  - HTML, CSS e JavaScript ★★☆☆☆
+  - MySql ★★☆☆☆
+- Git ★★★★☆
+- Unity ★★☆☆☆
+- Pacote Office ★★★☆☆
+
+### Gostos
+- Eu gosto de criar histórias sobre temáticas variadas para diversos estilos de exibição
+- Eu gosto de aprender coisas novas, principalmente aquilo que envolve algum gosto meu <br>
+
+## Entre em Contato
+<div>
+  <a href="yuritelisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a><br>
+  <a href="https://www.instagram.com/yuriyurui.png/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
 </div>
 
-### Sobre Mim
-#### Formações
-- Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy;
-- Estou no segundo semestre do bacharelado de Jogos Digitais pela PUC-SP;
+## GitHub Stats
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/yuriyurui">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yuriyurui&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyurui&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
 
-#### Experiências e Habilidades
-- Fiz parte da equipe da <a href="https://github.com/YosagiGames"> Yosagi Games</a>;
-- Me interesso na área de programação;
-    - C# - intermediário;
-    - C++ - básico;
-    - Dart - básico;
-    - HTML / CSS / JavaScript - básico;
-    - MySQL - básico;
-- Tenho inglês intermediário;
-- Tenho espanhol básico;
-- Sou intermediário no uso do pacote Office;
-- Sou intermediário em Unity;
-- Gosto de jogar e criar histórias;
-- Gosto de aprender coisas novas (especialmente linguagens de programação). <br>
-
-### Linguagens e programas
+## Linguagens e programas
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Yuri-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yuri-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -41,11 +55,3 @@
   <img align="center" alt="Yuri-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt= "Yuri-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div><br>
-
-### GitHub Stats
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/yuritelis">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yuritelis&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuritelis&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
