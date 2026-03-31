@@ -31,6 +31,7 @@ Olá! Me chamo Yuri, eu sou um estudante de programação (atualmente voltada pa
   - Dart/Flutter ★★★☆☆
   - HTML, CSS e JavaScript ★★☆☆☆
   - MySql ★★☆☆☆
+  - Python ★☆☆☆☆
 - Git ★★★★☆
 - Unity ★★☆☆☆
 - Pacote Office ★★★☆☆
