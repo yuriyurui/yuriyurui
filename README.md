@@ -4,7 +4,16 @@
   <img src="https://github.com/user-attachments/assets/02c142e7-b76f-44d4-8875-efedcd8590c7" alt="Pixel Art" align="center" width="600"> <br>
 </div> <br>
 
+## Entre em Contato
+<div>
+  <a href="yuritelisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a><br>
+  <a href="https://www.instagram.com/yuriyurui.png/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
+</div>
+
 ## Sobre Mim
+### Resumo
+Olá! Me chamo Yuri, eu sou um estudante de programação (atualmente voltada para o desenvolvimento de jogos digitais) e gosto muito das mais diversas áreas de desenvolvimento. Eu estou buscando desenvolver minhas habilidades de programação web (com HTML, CSS e JavaScript) e para softwares (C#), mas qualquer experiência com outras linguagens é bem vinda.
+
 ### Formações
 - Sou técnico em Programação de Jogos Digitais pela ETEC Prof. Basilides de Godoy, formado em 2024
 - Estou no processo de me formar como bacharel em Jogos Digitais pela Pontifícia Universidade Católica de São Paulo (PUC-SP), atualmente cursando o 3° semestre com previsão de conclusão no final de 2028
@@ -29,20 +38,6 @@
 ### Gostos
 - Eu gosto de criar histórias sobre temáticas variadas para diversos estilos de exibição
 - Eu gosto de aprender coisas novas, principalmente aquilo que envolve algum gosto meu <br>
-
-## Entre em Contato
-<div>
-  <a href="yuritelisgarcia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a><br>
-  <a href="https://www.instagram.com/yuriyurui.png/ target="_blanck"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
-</div>
-
-## GitHub Stats
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/yuriyurui">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yuriyurui&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyurui&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
 
 ## Linguagens e programas
 <div align="center" style="display: inline_block"><br>
